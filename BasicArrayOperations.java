@@ -20,8 +20,7 @@ public class BasicArrayOperations {
         // Step 4: Find the middle element
         int middleIndex = size / 2;  
         System.out.println("Middle element: " + numbers[middleIndex]);
-
-        scan.close();  // Close the scanner
+        
     }
 }
 
